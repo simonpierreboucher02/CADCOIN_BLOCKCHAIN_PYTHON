@@ -3,7 +3,7 @@
 
 """
 CAD-COIN Blockchain — Ultra Robust Production Flask Server
-Author: Simon‑Pierre Boucher (requested), implementation upgraded by Claude
+Author: Simon‑Pierre Boucher
 
 This ultra robust version includes:
 - Adaptive difficulty adjustment
